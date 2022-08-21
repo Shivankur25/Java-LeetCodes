@@ -1,0 +1,24 @@
+Types of languages - 
+1.Procedural:-
+	* specifies a series of well-structured steps and procedures to compare a program.
+	* contains a systematic order of statements, functions and commands to complete a task.
+2.Functional:-
+	* Writing a program only in pure functions i.e. never modify variables, but only create new ones as an output.
+	* Used in situations where we have to perform lots of different operations on the same set of data , like ML
+	* First class functions?
+3.Object Oriented:-
+	* Revolves around objects
+	* Code + Data = Object
+	* Developed to make it easier to develop,reuse,and maintain software.
+
+
+Static V/S  Dynamic Languages
+
+Static 							Dynamic
+-perform type checking at compile time			- Perform type checking at runtime
+-errors will show at compile time			- Error might not show till program is run
+-Declare datatype before you use it			- No need to declare datatype of variables
+-More control						- Saves Time in writing code but might give error at runtime	
+
+Memory:-
+Static and Heap			 
