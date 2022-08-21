@@ -1,0 +1,31 @@
+How JAVA code excutes
+
+.java file	    ------------>  .class file    ------------------>  Machine Code
+(human readable)    compiler       (bytecode)      interpreter         (0 & 1)
+                   (byte code)			  (line by line)
+ 
+
+this is the source code      -this code will not directly          
+				run on a system	
+		             - we need JVM to run this
+		     	     - Reason why JAVA is platform independent 
+
+
+		*PLATFORM INDEPENDENCE*
+ - It means that byte code can run all operating Systems.
+ - We need to convert the source code to machine code so computer can understand
+ - Compiler helps in doing this by turning in into executable code.
+ - this excuetable code is a set of instruction for the computer
+ - After compiling C/C++ code we get .exe file which is platform dependent
+ - In JAVA we get bytecode, JVM converts this machine code
+ - Java is platform independent but JVM is platform dependent.
+
+JDK V/S JRE V/S JVM V/S JIT
+JDK - Java development Kit
+-provides environment to develop and run the java program
+- it is a pacakge that includes:
+	1.development tools 
+	2.JRE to execute your proggram.
+	3.a compiler javac
+	4.archiver - jar
+	5.docs generator

@@ -1,0 +1,11 @@
+public class Program{
+	public static void main(String[] args){
+		System.out.println("Hello World!");
+	}
+}
+
+public - means can be access by anywhere
+class - contain function 
+static - is used to run main function without creating objects
+void - is the written type of function
+(String[] args) are the arguments

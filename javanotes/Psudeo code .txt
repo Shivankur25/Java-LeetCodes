@@ -1,0 +1,15 @@
+Input a number and print whether it is prime or not
+psuedo code:-
+start
+input num
+if n<=1:
+	print("prime)
+    c=2
+    while(c*C<num):
+	if(num % c = 0):
+		output 'not prime";
+		exit
+	c=c+1
+     end while
+     output "prime"
+exit
