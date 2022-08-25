@@ -25,6 +25,9 @@ public class fairCandySwap {
                 return new int[]{x,x+delta};
         }
         throw null;
+        // formula used = SA - x +y =SB -y+x SA=sum of alice..
+        // y=x+(Sb-Sa)/2
+        // for every candy x that alice has if bob has candy y =x+(Sb-Sa)/2
         
     }
 }
