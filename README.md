@@ -4,6 +4,6 @@
 ### 2.  :robot:    `Array Solutions` [CODES](https://github.com/Shivankur25/Java-LeetCodes/tree/main/arraycodes)
 - [x] COMPLETED 
 ### 3.  	:skull:   `BINARY Search` [CODES](https://github.com/Shivankur25/Java-LeetCodes/tree/main/binarySearch)
-- [ ] COMPLETED
+- [x] COMPLETED
  
 ![JAVA IMAGE](https://github.com/Shivankur25/Java-LeetCodes/blob/main/javanotes/WhatsApp%20Image%202022-08-23%20at%2011.36.29%20PM.jpeg)
